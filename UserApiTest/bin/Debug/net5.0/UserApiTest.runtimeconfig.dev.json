@@ -1,0 +1,10 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\agaph\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\agaph\\.nuget\\packages",
+      "D:\\Visual Studio Community\\Ferramentas e Componentes\\NuGetPackages",
+      "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet"
+    ]
+  }
+}
